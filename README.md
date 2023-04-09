@@ -1,4 +1,4 @@
 # git-essencials
 
-## git pull origin main 
-How does it work? 
+Some new stuff in here now. 
+ 
