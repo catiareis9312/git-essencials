@@ -1,4 +1,7 @@
-# git-essencials
+# Git Essentials / Git for everybody
 
-Some new stuff in here now. 
- 
+This is a course to teach you how to use git on a daily basis. 
+
+
+
+Apr 10, 2023. 
